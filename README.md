@@ -6,5 +6,6 @@ A collection of LeetCoden SQL questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/divyapundhir21/LeetCode-SQL-50/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/divyapundhir21/LeetCode-SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
